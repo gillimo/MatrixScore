@@ -1,0 +1,13 @@
+{
+  "interaction_matrix": {
+    "speed": {"speed": 2.0, "quality": 1.0, "cost": 1.0},
+    "quality": {"speed": 1.0, "quality": 2.0, "cost": 1.0},
+    "cost": {"speed": 1.0, "quality": 1.0, "cost": 2.0}
+  },
+  "items": [
+    {"name": "team_alpha", "issues": ["speed"], "capabilities": ["speed"], "category": "engineering"},
+    {"name": "team_beta", "issues": ["quality"], "capabilities": ["quality"], "category": "qa"},
+    {"name": "team_gamma", "issues": ["cost"], "capabilities": ["cost"], "category": "ops"}
+  ],
+  "portfolio": ["team_alpha", "team_beta", "team_gamma"]
+}

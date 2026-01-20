@@ -1,0 +1,18 @@
+{
+  "interaction_matrix": {
+    "availability": {"availability": 2.0, "integrity": 1.0, "confidentiality": 1.0},
+    "integrity": {"availability": 1.0, "integrity": 2.0, "confidentiality": 1.0},
+    "confidentiality": {"availability": 1.0, "integrity": 1.0, "confidentiality": 2.0}
+  },
+  "items": [
+    {"name": "control_a", "issues": ["availability"], "capabilities": ["availability"], "category": "prevent"},
+    {"name": "control_b", "issues": ["integrity"], "capabilities": ["integrity"], "category": "detect"},
+    {"name": "control_c", "issues": ["confidentiality"], "capabilities": ["confidentiality"], "category": "respond"}
+  ],
+  "portfolio": ["control_a", "control_b", "control_c"],
+  "weights": {
+    "exposure_gap": 8.0,
+    "overlap": 8.0,
+    "concentration_overlap": 10.0
+  }
+}
