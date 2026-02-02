@@ -1,3 +1,12 @@
 # MatrixScore
+
+## What It Is
+
+Start 2026-01-20 — Reusable scoring and rating engine. 100% complete; no open issues. Deterministic metrics, calibration flow, and audit-ready outputs.
+
+## How It Works
+
+Start 2026-01-20 — Reusable scoring and rating engine. 100% complete; no open issues. Deterministic metrics, calibration flow, and audit-ready outputs.
+
 ## What It IsStart 2023-10-01 — Early CLI-piped coding assistant prototype. 100% complete; no open issues. Historical artifact that proves early tool-loop design.## How It Works- Start 2023-10-01 — Early CLI-piped coding assistant prototype. 100% complete; no open issues. Historical artifact that proves early tool-loop design.## What It IsStart 2023-10-01 — Original Oct 2023 local agent release. 100% complete; no open issues. Prompt-to-action loop with safe execution as the seed for later stacks.## How It Works- Start 2023-10-01 — Original Oct 2023 local agent release. 100% complete; no open issues. Prompt-to-action loop with safe execution as the seed for later stacks.## What It IsStart 2026-01-20 — Reusable scoring and rating engine. 100% complete; no open issues. Deterministic metrics, calibration flow, and audit-ready outputs.## How It Works- Start 2026-01-20 — Reusable scoring and rating engine. 100% complete; no open issues. Deterministic metrics, calibration flow, and audit-ready outputs.
 Domain-agnostic rating engine for matrix-driven coverage, gaps, and overlap risk.
